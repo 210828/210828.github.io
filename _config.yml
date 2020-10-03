@@ -1,11 +1,11 @@
 # Site settings
-title: T298
+title: 210828
 SEOTitle: 哦～天呐，你终于来了！
 header-img: img/80056132_p0.png
 email: tian.ae@qq.com
-description: "We all live under dangerous walls!"
-keyword: "BY, BY Blog, 298的博客, github"
-url: "https://t298.github.io"          # your host, for absolute URL
+description: "Whatever is worth doing is worth doing well!"
+keyword: "B, B Blog, 白的博客, github"
+url: "https://210828.github.io"          # your host, for absolute URL
 # baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 # github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
